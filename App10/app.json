@@ -2,7 +2,7 @@
     "id":  "9f9b049a-cff0-4e18-aa94-cc913870ab78",
     "name":  "App10",
     "publisher":  "JOH",
-    "version":  "1.0.0.0",
+    "version":  "20.1.0.0",
     "brief":  "",
     "description":  "",
     "privacyStatement":  "",
@@ -17,7 +17,7 @@
 
                     ],
     "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
+    "application":  "20.1.0.0",
     "idRanges":  [
                      {
                          "from":  51000,
