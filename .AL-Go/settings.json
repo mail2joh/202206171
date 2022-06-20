@@ -8,6 +8,6 @@
                     ],
     "RepoVersion":  "20.1",
 	"Environments":  [
-                         "QA","FAT"
+                         "QA"
                      ]
 }
