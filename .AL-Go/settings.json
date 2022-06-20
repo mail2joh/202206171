@@ -6,8 +6,9 @@
     "testFolders":  [
 
                     ],
-    "RepoVersion":  "20.1",
-	"Environments":  [
-                         "QA", "FAT"
+    "RepoVersion":  "20.2",
+    "Environments":  [
+                         "QA",
+                         "FAT"
                      ]
 }
